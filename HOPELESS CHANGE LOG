@@ -1,2 +1,18 @@
 Added a new admin menu with many advanced options.
 Added a new inventory with feature to prevent item duplication.
+Added a new multicharacter and spawn selector integrated with the Illenium appearance menu.
+Added a new apartments interior
+Added an advanced interface composed of a HUD, progress bar, show notify, and help notify (configurable by opening the menu with the command /hud ore pressing "U", and all icons are adjustable)
+Added a new banking system.
+Added a new advanced garage script.
+Added a new advanced medic job with a new Pillbox map.
+Added a new mechanic job with advanced features and new ls customs mapping.
+All free-access jobs and licenses can be obtained from City Hall (except for certain licenses, which must be obtained from the Police Department
+Added a health-saving system compatible with the QBCore framework (players will respawn with the last health percentage they had before disconnecting)
+Added a new daily missions system with random rewards (cash, item, ... etc).
+Added a new clothing pack optimized to the maximum possible to avoid FPS drops
+Added a tattoo shop script (public until sold to a player)
+Added a new report system (simple and easy to use)
+Added a new cardealer menu script with a new MLO (public until sold to a player)
+Added an anti-combat logging script to catch quitters
+Added a new radio script
