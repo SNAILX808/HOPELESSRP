@@ -30,3 +30,4 @@ Added Burger Shot job and MLO
 Modified the revive command
 Added racing/boosting system scripts.
 added fishing script with a level progression system.
+Disabled the seatbelt feature and the action dial for exiting vehicles in the event of an accident
